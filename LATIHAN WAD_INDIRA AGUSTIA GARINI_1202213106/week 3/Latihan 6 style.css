@@ -1,0 +1,25 @@
+body{
+    background-color: #2448e927;
+    background-image: url(lewismax.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    color: rgba(129, 205, 215, 0.863);
+    text-align: center;
+    text-transform:capitalize;
+    background-color: rgb(10, 34, 54);
+}
+
+h2{
+    color: rgb(225, 90, 83);
+    text-align: center;
+    text-decoration :overline;
+    background-color: #000000;
+}
+
+p{
+    color: rgb(186, 188, 190);
+    text-align: justify;
+    background-color: rgb(10, 34, 54);
+}
