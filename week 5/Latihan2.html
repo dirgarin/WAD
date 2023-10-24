@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>FERARRI</title>
+    </head>
+    <body>
+        <h1 align="center" style="color: red;">FORZA FERRARI</h1>
+        <img id="myImage" onclick="changeImage()" src="cl1.jpg">
+        <p align="center" style="color: red;">Click to see the best ferarri drivers.</p>
+        <script>
+            function changeImage(){
+                var image = document.getElementById('myImage');
+                if (image.src.match("bulbon")){
+                    image.src = "cl1.jpg";
+                } else{
+                    image.src = "cs1.jpg";
+                }
+            }
+        </script>
+    </body>
+</html>

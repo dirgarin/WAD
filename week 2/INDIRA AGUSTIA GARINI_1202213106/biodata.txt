@@ -1,0 +1,12 @@
+support act:
+- firm infrastructure: Administrasi umum
+- HR:Pegawai Kelurahan
+- IT:Data E-KTP
+- Procurement:Keperluan data pemohon
+
+primary act
+- inbound logistic:Menerima Permohonan
+- operations:Memproses KTP (sidik jari, foto)
+- outbound logistic:Penyerahan E-KTP
+- marketing sales:Promosi layanan E-KTP
+- services:Menanggapi keluhan (feedback)

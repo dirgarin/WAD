@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(33, 101, 103);
+    background-image: url();
+}
+h1{
+    color: rgb(0, 0, 0);
+    text-align: left;
+    text-transform:capitalize
+}
+
+h2{
+    color: rgb(0, 0, 0);
+    text-align: left;
+    text-decoration :overline;
+}
+
+h3{
+    color: rgb(255, 255, 255);
+    text-align: left;
+    text-decoration: line-through;
+}
+
+p{
+    color: rgb(118, 191, 255);
+    text-align: center;
+    background-color: darkblue;
+}
